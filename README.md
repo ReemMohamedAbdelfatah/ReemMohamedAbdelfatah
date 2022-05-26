@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReemMohamedAbdelfatah
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning react and nodejs
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on new project ideas
 - 📫 How to reach me https://www.linkedin.com/in/reem-abd-el-fatah-a07543116
 
