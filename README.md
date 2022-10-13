@@ -18,6 +18,10 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/reem-abd-el-fatah-a07543116**
 <br/>
+
+<h3 align="left" style="font-weight:bold">Credentials:</h3>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59015476"/>
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/reemmoh67016126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="reemmoh67016126" height="30" width="40" /></a>
