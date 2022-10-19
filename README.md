@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reem Muhammed</h1>
-<h2 align="center">Future Full-stack Web Developer based in Egypt <img src ="https://geo-media.beatport.com/image_size/1400x1400/7374a05f-bc4a-4bab-97b4-c3dd7aa08d0d.jpg" style='width:50px; height:50px; align:center'/></h2>
+<h2 align="center">Future Full-stack Web Developer based in Egypt 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/All_Gizah_Pyramids.jpg/1280px-All_Gizah_Pyramids.jpg" style='width:100px; height:50px; align:center'/></h2>
 
 <h3 align="center">Student and Mentor at Microverse <img src="https://img.shields.io/badge/Microverse-blueviolet"/></h3>
 <p align="center"><img  src='https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952c573b6e47f4d5e6d7e1eb1a1558baa2a9d41a9dd&rid=giphy.gif&ct=s'/></p>
