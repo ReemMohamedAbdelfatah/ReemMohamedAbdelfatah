@@ -5,8 +5,9 @@
 <h3 align="center">Open to new opportunities.</h3>
 <h3 align="center"> Interests</h3>
 <p align="center">🤽‍♀️ Swimming    🎨 Drawing and coloring   🎼 Music    📖 Reading</p>
-<h3 align="center">Loved Quote</h3>
+<h3 align="center">Loved Quotes</h3>
 <p align="center">“Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”</p>
+<p align="center">“A failure is simply something you have not "yet" mastered”</p>
 <p align="center"><img  src='https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=6c09b952c573b6e47f4d5e6d7e1eb1a1558baa2a9d41a9dd&rid=giphy.gif&ct=s'/></p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reemmohamedabdelfatah&label=Profile%20views&color=0e75b6&style=flat" alt="reemmohamedabdelfatah" /> </p>
