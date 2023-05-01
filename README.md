@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Reem Muhammed</h1>
+<h1 align="center">Hi 👋, I'm Reem Mohamad</h1>
 <h2 align="center"> Full-stack Web Developer 
 <h3 align="center">Student and Mentor at Microverse <img src="https://img.shields.io/badge/Microverse-blueviolet"/></h3>
 <h3 align="center">Open to new opportunities.</h3>
