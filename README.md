@@ -28,6 +28,8 @@
 <div style="display: flex">
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/59015476"/>
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926165"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809606"/>
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75356048"/>
   </div>
 <br/>
 <h3 align="left">Connect with me:</h3>
